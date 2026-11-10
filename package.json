@@ -1,0 +1,17 @@
+{
+  "name": "triathlon-prep-backend",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "convex dev",
+    "deploy": "convex deploy",
+    "codegen": "convex codegen"
+  },
+  "dependencies": {
+    "convex": "^1.27.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "typescript": "~5.7.2"
+  }
+}
